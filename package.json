@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Maciekek/cypress-todo-webinar#readme",
   "dependencies": {
-    "cypress": "^4.11.0"
+    "cypress": "^4.12.1"
   }
 }
